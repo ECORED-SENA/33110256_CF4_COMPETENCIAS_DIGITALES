@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "tema-1",
+    "title": "1. Telesalud",
+    "path": "pages/tema-1.html"
+  }, 
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "tema-2",
+    "title": "2. Teleorientación y Teleapoyo",
+    "path": "pages/tema-2.html" 
+  },
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "tema-3",
+    "title": "3. Telexperticia y Telemonitoreo",
+    "path": "pages/tema-3.html" 
+  },
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "tema-4",
+    "title": "4. Telemedicina interactiva y no interactiva",
+    "path": "pages/tema-4.html" 
+  }  
+]
