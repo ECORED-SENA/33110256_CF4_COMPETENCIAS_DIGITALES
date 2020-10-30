@@ -12,11 +12,23 @@
     "path": "pages/tema-1.html"
   }, 
   {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica 1",
+    "path": "pages/actividad-1.html"
+  }, 
+  {
     "icon": "fa fa-play-circle",
     "slug": "tema-2",
     "title": "2. Teleorientación y Teleapoyo",
     "path": "pages/tema-2.html" 
   },
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-2",
+    "title": "Actividad didáctica 2",
+    "path": "pages/actividad-2.html"
+  }, 
   {
     "icon": "fa fa-play-circle",
     "slug": "tema-3",
